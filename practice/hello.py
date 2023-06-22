@@ -7,4 +7,4 @@ last_name = "john"
 full_name = name + " " + last_name
 
 print(full_name)
-ask = 5
+ask = 50
